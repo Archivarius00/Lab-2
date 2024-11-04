@@ -8,7 +8,7 @@ def convert(item):
         item = item.replace(',','.')
         return float(item)
 
-count = 0
+
 arr = []
 
 autor = input('Type author name: ')
